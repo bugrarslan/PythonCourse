@@ -1,0 +1,10 @@
+ls : bulunduğun dizindeki dosyaları listeler.
+cd name : change directory
+cd.. : alt klasöre geçme
+cd\ : sürücü değiştirme
+cls : ekran temizler
+mkdir name : klasör oluşturur
+echo (içeriğe metin girmek istersen yaz, yoksa $null) >> name.py: dosya oluşturur
+code . : klasörü vscode da açar
+del name : dosya silinir
+rmdir name : klasörü siler

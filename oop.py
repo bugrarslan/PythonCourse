@@ -1,0 +1,17 @@
+# Object Oriented Programming (OOP)
+
+# class => Preson (name, surname, birthday, calculateAge())
+
+lst1 = [1,2,3]
+lst2 = [1,2,3,4]
+
+
+
+result = type(lst1)
+result = type(lst2)
+
+
+print(result)
+
+# instance (object)
+
