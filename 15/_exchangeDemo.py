@@ -1,7 +1,7 @@
 import requests
 import json
 
-api_url = "https://api.exchangeratesapi.io/v1/latest?access_key=0&symbols="
+api_url = "https://api.exchangeratesapi.io/v1/latest?access_key=default&symbols="
 
 bozulan_doviz = input("Bozulan döviz türü: ")
 alinan_doviz = input("Alınan döviz türü: ")
