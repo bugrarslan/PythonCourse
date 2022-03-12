@@ -8,7 +8,7 @@ driver.get(url)
 
 time.sleep(2)
 driver.maximize_window()
-driver.save_screenshot("github.com-homepage.png") #test
+driver.save_screenshot("github.com-homepage.png")
 
 url = "https://github.com/bugrarslan"
 driver.get(url)
